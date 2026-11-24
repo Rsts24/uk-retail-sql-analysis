@@ -1,0 +1,29 @@
+product_id,product_name,category,unit_cost,unit_price
+1,Wireless Earbuds,Electronics,18,49.99
+2,Bluetooth Speaker,Electronics,22,59.99
+3,USB-C Charger,Electronics,6,19.99
+4,Smart Watch,Electronics,60,149.99
+5,Portable SSD 1TB,Electronics,45,99.99
+6,Webcam HD,Electronics,20,44.99
+7,Air Fryer,Home & Kitchen,40,89.99
+8,Coffee Grinder,Home & Kitchen,15,34.99
+9,Knife Set,Home & Kitchen,25,64.99
+10,Kettle,Home & Kitchen,12,29.99
+11,Storage Jars (6),Home & Kitchen,8,21.99
+12,Blender,Home & Kitchen,28,69.99
+13,Rain Jacket,Clothing,20,59.99
+14,Cotton T-Shirt,Clothing,4,14.99
+15,Wool Jumper,Clothing,18,49.99
+16,Running Trainers,Clothing,30,79.99
+17,Winter Scarf,Clothing,5,17.99
+18,Jeans,Clothing,14,44.99
+19,Yoga Mat,Sports & Outdoors,7,24.99
+20,Dumbbell Set,Sports & Outdoors,30,74.99
+21,Water Bottle,Sports & Outdoors,3,12.99
+22,Camping Chair,Sports & Outdoors,12,34.99
+23,Cycling Helmet,Sports & Outdoors,18,49.99
+24,Notebook A5,Books & Stationery,1.5,6.99
+25,Fountain Pen,Books & Stationery,6,22.99
+26,Desk Planner,Books & Stationery,4,14.99
+27,Bestseller Novel,Books & Stationery,4,9.99
+28,Art Supplies Kit,Books & Stationery,10,29.99
